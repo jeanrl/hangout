@@ -65,7 +65,7 @@ if(isset($_POST['user']) && isset($_POST['pass'])) {
 				<label>Senha:</label>
 				<input type="password" name='pass' value="<?php echo $pass;?>" />
 
-				<button type="submit">Criar</button> ou baixe o <a href="post,sql">script SQL</a>
+				<button type="submit">Criar</button> ou baixe o <a href="post.sql">script SQL</a>
 				</form>
 
 				<?php echo $msg;?>
