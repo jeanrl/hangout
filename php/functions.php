@@ -25,6 +25,7 @@
                     <meta name="description" content="">
                     <meta name="viewport" content="width=device-width, initial-scale=1">
                     <title>Teste</title>
+                    <link rel="shortcut icon" href="style/image/favicon.ico" />
                     <link rel="stylesheet" href="style/main.css">
                     <link rel="author" href="humans.txt">
                 </head>
