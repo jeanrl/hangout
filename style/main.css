@@ -1,0 +1,8 @@
+* {padding: 0; margin: 0; font-family: Arial, sans-serif; font-size:.9em; font-weight: normal; color:#000;}
+body {background:#999}
+h1 { font-size: 3em}
+h2 { font-size: 2em}
+h3 { font-size: 1.5em}
+hr { margin: 20px 0}
+.container {width:700px; margin:20px auto; padding:20px; background:#FFF; min-height:300px; box-shadow: 0 10px 20px #444}
+.conteudo { padding:20px 5px; border:1px solid #DDD; min-height: 100px; color:#456}
