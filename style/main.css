@@ -1,8 +1,21 @@
-* {padding: 0; margin: 0; font-family: Arial, sans-serif; font-size:.9em; font-weight: normal; color:#000;}
+* {padding: 0; margin: 0; font-family: Arial, sans-serif; font-size:1em; font-weight: normal; color:#000;}
 body {background:#999}
 h1 { font-size: 3em}
 h2 { font-size: 2em}
 h3 { font-size: 1.5em}
 hr { margin: 20px 0}
+form * {display:block;}
+label {font-size: 0.8em; color:#666; font-weight: bold}
+input { border:1px solid #CCC; padding: 5px; margin:2px 0 10px 0; min-width: 200px; color:#890; border-radius: 6px; box-shadow: 0 -1px 4px #CCC inset}
+button { display:inline; padding: 4px 15px; margin: 20px 0 0 0 }
+
+form a {display: inline; text-decoration: none; color:#039;}
+form a:hover { text-decoration: underline;}
+
+blockquote, blockquote *{ font-style: italic; color:#999;}
+blockquote {padding: 20px 0 30px 45px; background: url(image/aspas.gif) left 14px no-repeat}
+blockquote b { font-weight: bold}
+
 .container {width:700px; margin:20px auto; padding:20px; background:#FFF; min-height:300px; box-shadow: 0 10px 20px #444}
 .conteudo { padding:20px 5px; border:1px solid #DDD; min-height: 100px; color:#456}
+.msg {clear:both; border:1px solid #F00; background:#FDC; color:#F00; padding: 10px; margin:20px 0;}
